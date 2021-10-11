@@ -1,0 +1,30 @@
+{
+    "title": "Animals",
+    "description": "Học về các con vật",
+    "data": [
+        {
+            "name":"Chicken",
+            "spelling":"CHikən",
+            "image":"",
+            "audio":""
+        },
+        {
+            "name":"Dog",
+            "spelling":"dôɡ",
+            "image":"",
+            "audio":""
+        },
+        {
+            "name":"Lion",
+            "spelling":"līən",
+            "image":"",
+            "audio":""
+        },
+        {
+            "name":"Wolf",
+            "spelling":"wo͝olf",
+            "image":"",
+            "audio":""
+        }
+    ]
+}
