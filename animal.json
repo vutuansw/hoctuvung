@@ -3,28 +3,148 @@
     "description": "Học về các con vật",
     "data": [
         {
+            "name":"Alligator",
+            "spelling":"aləˌɡādər",
+            "image":"alligator.jpg",
+            "audio":"alligator.mp3"
+        },
+        {
+            "name":"Bird",
+            "spelling":"bərd",
+            "image":"bird.jpg",
+            "audio":"bird.mp3"
+        },
+        {
+            "name":"Ant",
+            "spelling":"ant",
+            "image":"ant.jpg",
+            "audio":"ant.mp3"
+        },
+        {
+            "name":"Buffalo",
+            "spelling":"bəf(ə)ˌlō",
+            "image":"buffalo.jpg",
+            "audio":"buffalo.mp3"
+        },
+        {
             "name":"Chicken",
             "spelling":"CHikən",
-            "image":"",
-            "audio":""
+            "image":"chicken.jpg",
+            "audio":"chicken.mp3"
+        },
+        {
+            "name":"Cow",
+            "spelling":"kou",
+            "image":"cow.jpg",
+            "audio":"cow.mp3"
         },
         {
             "name":"Dog",
             "spelling":"dôɡ",
-            "image":"",
-            "audio":""
+            "image":"dog.jpg",
+            "audio":"dog.mp3"
+        },
+        {
+            "name":"duck",
+            "spelling":"dək",
+            "image":"duck.jpg",
+            "audio":"duck.mp3"
+        },
+        {
+            "name":"Elephant",
+            "spelling":"eləfənt",
+            "image":"elephant.jpg",
+            "audio":"elephant.mp3"
+        },
+        {
+            "name":"Fish",
+            "spelling":"fiHS",
+            "image":"fish.jpg",
+            "audio":"fish.mp3"
+        },
+        {
+            "name":"Fly",
+            "spelling":"flī",
+            "image":"fly.jpg",
+            "audio":"fly.mp3"
+        },
+        {
+            "name":"Frog",
+            "spelling":"frôɡ",
+            "image":"frog.jpg",
+            "audio":"frog.mp3"
+        },
+        {
+            "name":"Goat",
+            "spelling":"ɡōt",
+            "image":"goat.jpg",
+            "audio":"goat.mp3"
+        },
+        {
+            "name":"Hippopotamus",
+            "spelling":"hipəˈpädəməs",
+            "image":"hippopotamus.jpg",
+            "audio":"hippopotamus.mp3"
         },
         {
             "name":"Lion",
             "spelling":"līən",
-            "image":"",
-            "audio":""
+            "image":"lion.jpg",
+            "audio":"lion.mp3"
+        },
+        {
+            "name":"Monkey",
+            "spelling":"məNGkē",
+            "image":"monkey.jpg",
+            "audio":"monkey.mp3"
+        },
+        {
+            "name":"Mosquito",
+            "spelling":"məˈskēdō",
+            "image":"mosquito.jpg",
+            "audio":"mosquito.mp3"
+        },
+        {
+            "name":"Penguin",
+            "spelling":"ˈpeNGɡwin",
+            "image":"penguin.jpg",
+            "audio":"penguin.mp3"
+        },
+        {
+            "name":"Pig",
+            "spelling":"pig",
+            "image":"pig.jpg",
+            "audio":"pig.mp3"
+        },
+        {
+            "name":"Rabbit",
+            "spelling":"ˈrabət",
+            "image":"rabbit.jpg",
+            "audio":"rabbit.mp3"
+        },
+        {
+            "name":"Shark",
+            "spelling":"SHärk",
+            "image":"shark.jpg",
+            "audio":"shark.mp3"
+        },
+        {
+            "name":"Shrimp",
+            "spelling":"SHrimp",
+            "image":"shrimp.jpg",
+            "audio":"shrimp.mp3"
+        },
+        {
+            "name":"Tiger",
+            "spelling":"ˈtīɡər",
+            "image":"tiger.jpg",
+            "audio":"tiger.mp3"
         },
         {
             "name":"Wolf",
             "spelling":"wo͝olf",
-            "image":"",
-            "audio":""
+            "image":"wolf.jpg",
+            "audio":"wolf.mp3"
         }
     ]
 }
