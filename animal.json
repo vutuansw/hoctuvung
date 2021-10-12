@@ -3,10 +3,58 @@
     "description": "Học về các con vật",
     "data": [
         {
-            "name":"Alligator",
-            "spelling":"aləˌɡādər",
-            "image":"alligator.jpg",
-            "audio":"alligator.mp3"
+            "name":"Dog",
+            "spelling":"dôɡ",
+            "image":"dog.jpg",
+            "audio":"dog.mp3"
+        },
+        {
+            "name":"Cat",
+            "spelling":"kat",
+            "image":"cat.jpg",
+            "audio":"cat.mp3"
+        },
+        {
+            "name":"Mouse",
+            "spelling":"ˈmɑʊs",
+            "image":"mouse.jpg",
+            "audio":"mouse.mp3"
+        },
+        {
+            "name":"Pig",
+            "spelling":"pig",
+            "image":"pig.jpg",
+            "audio":"pig.mp3"
+        },
+        {
+            "name":"Chicken",
+            "spelling":"CHikən",
+            "image":"chicken.jpg",
+            "audio":"chicken.mp3"
+        },
+        {
+            "name":"Buffalo",
+            "spelling":"bəf(ə)ˌlō",
+            "image":"buffalo.jpg",
+            "audio":"buffalo.mp3"
+        },
+        {
+            "name":"Cow",
+            "spelling":"kou",
+            "image":"cow.jpg",
+            "audio":"cow.mp3"
+        },
+        {
+            "name":"duck",
+            "spelling":"dək",
+            "image":"duck.jpg",
+            "audio":"duck.mp3"
+        },
+        {
+            "name":"Rabbit",
+            "spelling":"ˈrabət",
+            "image":"rabbit.jpg",
+            "audio":"rabbit.mp3"
         },
         {
             "name":"Bird",
@@ -21,34 +69,16 @@
             "audio":"ant.mp3"
         },
         {
-            "name":"Buffalo",
-            "spelling":"bəf(ə)ˌlō",
-            "image":"buffalo.jpg",
-            "audio":"buffalo.mp3"
+            "name":"Snake",
+            "spelling":"snāk",
+            "image":"snake.jpg",
+            "audio":"snake.mp3"
         },
         {
-            "name":"Chicken",
-            "spelling":"CHikən",
-            "image":"chicken.jpg",
-            "audio":"chicken.mp3"
-        },
-        {
-            "name":"Cow",
-            "spelling":"kou",
-            "image":"cow.jpg",
-            "audio":"cow.mp3"
-        },
-        {
-            "name":"Dog",
-            "spelling":"dôɡ",
-            "image":"dog.jpg",
-            "audio":"dog.mp3"
-        },
-        {
-            "name":"duck",
-            "spelling":"dək",
-            "image":"duck.jpg",
-            "audio":"duck.mp3"
+            "name":"Horse",
+            "spelling":"hôrs",
+            "image":"horse.jpg",
+            "audio":"horse.mp3"
         },
         {
             "name":"Elephant",
@@ -57,10 +87,52 @@
             "audio":"elephant.mp3"
         },
         {
+            "name":"Panda",
+            "spelling":"ˈpandə",
+            "image":"panda.jpg",
+            "audio":"panda.mp3"
+        },
+        {
+            "name":"Bee",
+            "spelling":"bē",
+            "image":"bee.jpg",
+            "audio":"bee.mp3"
+        },
+        {
+            "name":"Bear",
+            "spelling":"ber",
+            "image":"bear.jpg",
+            "audio":"bear.mp3"
+        },
+        {
+            "name":"Alligator",
+            "spelling":"aləˌɡādər",
+            "image":"alligator.jpg",
+            "audio":"alligator.mp3"
+        },
+        {
             "name":"Fish",
             "spelling":"fiHS",
             "image":"fish.jpg",
             "audio":"fish.mp3"
+        },
+        {
+            "name":"Penguin",
+            "spelling":"ˈpeNGɡwin",
+            "image":"penguin.jpg",
+            "audio":"penguin.mp3"
+        },
+        {
+            "name":"Shark",
+            "spelling":"SHärk",
+            "image":"shark.jpg",
+            "audio":"shark.mp3"
+        },
+        {
+            "name":"Shrimp",
+            "spelling":"SHrimp",
+            "image":"shrimp.jpg",
+            "audio":"shrimp.mp3"
         },
         {
             "name":"Fly",
@@ -105,36 +177,6 @@
             "audio":"mosquito.mp3"
         },
         {
-            "name":"Penguin",
-            "spelling":"ˈpeNGɡwin",
-            "image":"penguin.jpg",
-            "audio":"penguin.mp3"
-        },
-        {
-            "name":"Pig",
-            "spelling":"pig",
-            "image":"pig.jpg",
-            "audio":"pig.mp3"
-        },
-        {
-            "name":"Rabbit",
-            "spelling":"ˈrabət",
-            "image":"rabbit.jpg",
-            "audio":"rabbit.mp3"
-        },
-        {
-            "name":"Shark",
-            "spelling":"SHärk",
-            "image":"shark.jpg",
-            "audio":"shark.mp3"
-        },
-        {
-            "name":"Shrimp",
-            "spelling":"SHrimp",
-            "image":"shrimp.jpg",
-            "audio":"shrimp.mp3"
-        },
-        {
             "name":"Tiger",
             "spelling":"ˈtīɡər",
             "image":"tiger.jpg",
@@ -145,6 +187,12 @@
             "spelling":"wo͝olf",
             "image":"wolf.jpg",
             "audio":"wolf.mp3"
+        },
+        {
+            "name":"Lizard",
+            "spelling":"ˈlizərd",
+            "image":"lizard.jpg",
+            "audio":"lizard.mp3"
         }
     ]
 }
