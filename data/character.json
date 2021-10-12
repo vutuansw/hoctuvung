@@ -7,6 +7,72 @@
             "spelling":"ˈso͞opərˌman",
             "image":"superman.jpg",
             "audio":"superman.mp3"
+        },
+        {
+            "name":"Spiderman",
+            "spelling":"ˈspīdərˌman",
+            "image":"spiderman.jpg",
+            "audio":"spiderman.mp3"
+        },
+        {
+            "name":"Captain America",
+            "spelling":"ˈkaptən",
+            "image":"captain.jpg",
+            "audio":"captain.mp3"
+        },
+        {
+            "name":"Batman",
+            "spelling":"ˈbatmən",
+            "image":"batman.jpg",
+            "audio":"batman.mp3"
+        },
+        {
+            "name":"Iron man",
+            "spelling":"ˈī(ə)rn man",
+            "image":"ironman.jpg",
+            "audio":"ironman.mp3"
+        },
+        {
+            "name":"Doctor",
+            "spelling":"ˈdäktər",
+            "image":"doctor.jpg",
+            "audio":"doctor.mp3"
+        },
+        {
+            "name":"Fireman",
+            "spelling":"ˈfī(ə)rmən",
+            "image":"fireman.jpg",
+            "audio":"fireman.mp3"
+        },
+        {
+            "name":"Pilot",
+            "spelling":"ˈpīlət",
+            "image":"pilot.jpg",
+            "audio":"pilot.mp3"
+        },
+        {
+            "name":"Police",
+            "spelling":"pəˈlēs",
+            "image":"police.jpg",
+            "audio":"police.mp3"
+        },
+        {
+            "name":"Teacher",
+            "spelling":"ˈtēCHər",
+            "image":"teacher.jpg",
+            "audio":"teacher.mp3"
+        },
+        {
+            "name":"Farmer",
+            "spelling":"ˈfärmər",
+            "image":"farmer.jpg",
+            "audio":"farmer.mp3"
+        },
+        {
+            "name":"worker",
+            "spelling":"ˈwərkər",
+            "image":"worker.jpg",
+            "audio":"worker.mp3"
         }
     ]
 }
