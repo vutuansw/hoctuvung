@@ -1,0 +1,12 @@
+{
+    "title": "Vegetables",
+    "description": "Học về các loại rau củ quả",
+    "data": [
+        {
+            "name":"Potato",
+            "spelling":"pəˈtādō",
+            "image":"potato.jpg",
+            "audio":"potato.mp3"
+        }
+    ]
+}
