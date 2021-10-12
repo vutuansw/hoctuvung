@@ -1,0 +1,12 @@
+{
+    "title": "Characters",
+    "description": "Nhân vật và nghề nghiệp",
+    "data": [
+        {
+            "name":"Superman",
+            "spelling":"ˈso͞opərˌman",
+            "image":"superman.jpg",
+            "audio":"superman.mp3"
+        }
+    ]
+}

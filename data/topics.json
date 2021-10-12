@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Fruits",
+        "name":"fruit",
+        "image":"fruit.jpeg"
+    },
+    {
+        "title":"Animals",
+        "name":"animal",
+        "image":"animal.jpeg"
+    },
+    {
+        "title":"Characters",
+        "name":"character",
+        "image":"character.jpeg"
+    },
+    {
+        "title":"Vegetables",
+        "name":"vegetable",
+        "image":"vegetable.jpeg"
+    }
+]
