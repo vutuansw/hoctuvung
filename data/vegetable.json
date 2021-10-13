@@ -7,6 +7,144 @@
             "spelling":"pəˈtādō",
             "image":"potato.jpg",
             "audio":"potato.mp3"
+        },
+        {
+            "name":"Carrot",
+            "spelling":"ˈkerət",
+            "image":"carrot.jpg",
+            "audio":"carrot.mp3"
+        },
+        {
+            "name":"Green Onion",
+            "spelling":"ˈɡrēn ənyən",
+            "image":"green-onion.jpg",
+            "audio":"green-onion.mp3"
+        },
+        {
+            "name":"Garlic",
+            "spelling":"ˈɡärlik",
+            "image":"garlic.jpg",
+            "audio":"garlic.mp3"
+        },
+        {
+            "name":"Ginger",
+            "spelling":"ˈjinjər",
+            "image":"ginger.jpg",
+            "audio":"ginger.mp3"
+        },
+        {
+            "name":"Peanut",
+            "spelling":"ˈpēnət",
+            "image":"peanut.jpg",
+            "audio":"peanut.mp3"
+        },
+        {
+            "name":"Pepper",
+            "spelling":"ˈpepər",
+            "image":"pepper.jpg",
+            "audio":"pepper.mp3"
+        },
+        {
+            "name":"Okra",
+            "spelling":"ˈōkrə",
+            "image":"okra.jpg",
+            "audio":"okra.mp3"
+        }
+        {
+            "name":"Eggplant/Aubergine",
+            "spelling":"'eg.plɑːnt/‘əʊbədʒi:n",
+            "image":"eggplant.jpg",
+            "audio":"eggplant.mp3"
+        },
+        {
+            "name":"Pumpkin",
+            "spelling":"'pʌmpkɪn ",
+            "image":"pumpkin.jpg",
+            "audio":"pumpkin.mp3"
+        },
+        {
+            "name":"Corn",
+            "spelling":"kɔ:n",
+            "image":"corn.jpg",
+            "audio":"corn.mp3"
+        },
+        {
+            "name":"Asparagus",
+            "spelling":"ə’spærəgəs",
+            "image":"asparagus.jpg",
+            "audio":"asparagus.mp3"
+        },
+        {
+            "name":"Cauliflower",
+            "spelling":"'kɒliflaʊə",
+            "image":"cauliflower.jpg",
+            "audio":"cauliflower.mp3"
+        },
+        {
+            "name":"Cabbage",
+            "spelling":"kæbidʒ",
+            "image":"cabbage.jpg",
+            "audio":"cabbage.mp3"
+        },
+        {
+            "name":"Chinese cabbage",
+            "spelling":"t∫ai’ni:z ˈkabij",
+            "image":"chinese-cabbage.jpg",
+            "audio":"chinese-cabbage.mp3"
+        },
+        {
+            "name":"Gourd",
+            "spelling":"ɡôrd",
+            "image":"gourd.jpg",
+            "audio":"gourd.mp3"
+        },
+        {
+            "name":"Loofah",
+            "spelling":"ˈlo͞ofə",
+            "image":"loofah.jpg",
+            "audio":"loofah.mp3"
+        },
+        {
+            "name":"Mushroom",
+            "spelling":"ˈməSHˌro͞om",
+            "image":"mushroom.jpg",
+            "audio":"mushroom.mp3"
+        },
+        {
+            "name":"Malabar spinach",
+            "spelling":"mæləba spiniCH",
+            "image":"malabar-spinach.jpg",
+            "audio":"malabar-spinach.mp3"
+        },
+        {
+            "name":"White radish",
+            "spelling":"ˈ(h)wīt radiSH",
+            "image":"white radish.jpg",
+            "audio":"white radish.mp3"
+        },
+        {
+            "name":"Kohlrabi",
+            "spelling":"ˌkōlˈräbē",
+            "image":"kohlrabi.jpg",
+            "audio":"kohlrabi.mp3"
+        },
+        {
+            "name":"Sweet potato",
+            "spelling":"ˈswēt pəˌtādō",
+            "image":"sweet-potato.jpg",
+            "audio":"sweet-potato.mp3"
+        },
+        {
+            "name":"Taro",
+            "spelling":"ˈterō",
+            "image":"taro.jpg",
+            "audio":"taro.mp3"
+        }
+        {
+            "name":"Chayote",
+            "spelling":"CHīˈōdē",
+            "image":"chayote.jpg",
+            "audio":"chayote.mp3"
         }
     ]
 }
