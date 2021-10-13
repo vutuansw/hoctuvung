@@ -1,0 +1,78 @@
+{
+    "title": "Colors",
+    "description": "Học về màu sắc",
+    "data": [
+        {
+            "name":"Green",
+            "spelling":"ɡrēn",
+            "image":"green.png",
+            "audio":"green.mp3"
+        },
+        {
+            "name":"Blue",
+            "spelling":"blo͞o",
+            "image":"blue.png",
+            "audio":"blue.mp3"
+        },
+        {
+            "name":"Red",
+            "spelling":"red",
+            "image":"red.png",
+            "audio":"red.mp3"
+        },
+        {
+            "name":"Purple",
+            "spelling":"ˈpərpəl",
+            "image":"purple.png",
+            "audio":"purple.mp3"
+        },
+        {
+            "name":"Yellow",
+            "spelling":"ˈyelō",
+            "image":"yellow.png",
+            "audio":"yellow.mp3"
+        },
+        {
+            "name":"Brown",
+            "spelling":"broun",
+            "image":"brown.png",
+            "audio":"brown.mp3"
+        },
+        {
+            "name":"Black",
+            "spelling":"blak",
+            "image":"black.png",
+            "audio":"black.mp3"
+        },
+        {
+            "name":"White",
+            "spelling":"(h)wīt",
+            "image":"white.png",
+            "audio":"white.mp3"
+        },
+        {
+            "name":"Pink",
+            "spelling":"piNGk",
+            "image":"pink.png",
+            "audio":"pink.mp3"
+        },
+        {
+            "name":"Gray",
+            "spelling":"ɡrā",
+            "image":"gray.png",
+            "audio":"gray.mp3"
+        },
+        {
+            "name":"Sky blue",
+            "spelling":"ˌskī ˈblo͞o",
+            "image":"sky-blue.png",
+            "audio":"sky-blue.mp3"
+        },
+        {
+            "name":"Orange",
+            "spelling":"ˈôrənj",
+            "image":"orange.png",
+            "audio":"orange.mp3"
+        }
+    ]
+}

@@ -1,10 +1,5 @@
 [
     {
-        "title":"Fruits",
-        "name":"fruit",
-        "image":"fruit.jpg"
-    },
-    {
         "title":"Animals",
         "name":"animal",
         "image":"animal.jpeg"
@@ -15,8 +10,18 @@
         "image":"character.jpeg"
     },
     {
+        "title":"Fruits",
+        "name":"fruit",
+        "image":"fruit.jpg"
+    },
+    {
         "title":"Vegetables",
         "name":"vegetable",
         "image":"vegetable.jpeg"
+    },
+    {
+        "title":"Colors",
+        "name":"color",
+        "image":"color.jpeg"
     }
 ]
