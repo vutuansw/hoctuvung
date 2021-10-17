@@ -3,7 +3,7 @@
     "description": "Học về các con vật",
     "data": [
         {
-            "name":"Dog 2",
+            "name":"Dog",
             "spelling":"dôɡ",
             "image":"dog.jpg",
             "audio":"dog.mp3"
