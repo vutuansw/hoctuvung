@@ -2,36 +2,31 @@
     {
         "title":"Animals",
         "name":"animal",
-        "image":"animal.jpeg"
+        "image":"animal.jpeg?v=1.1"
     },
     {
         "title":"Characters",
         "name":"character",
-        "image":"character.jpeg"
-    },
-    {
-        "title":"Fruits",
-        "name":"fruit",
-        "image":"fruit.jpg"
-    },
-    {
-        "title":"Vegetables",
-        "name":"vegetable",
-        "image":"vegetable.jpeg"
-    },
-    {
-        "title":"Colors",
-        "name":"color",
-        "image":"color.jpeg"
-    },
-    {
-        "title":"Colors",
-        "name":"color",
-        "image":"color.jpeg"
+        "image":"character.jpeg?v=1.1"
     },
     {
         "title":"Street Vehicles",
         "name":"vehicle",
-        "image":"vehicle.jpeg"
+        "image":"vehicle.jpeg?v=1.0"
+    },
+    {
+        "title":"Fruits",
+        "name":"fruit",
+        "image":"fruit.jpg?v=1.1"
+    },
+    {
+        "title":"Vegetables",
+        "name":"vegetable",
+        "image":"vegetable.jpeg?v=1.1"
+    },
+    {
+        "title":"Colors",
+        "name":"color",
+        "image":"color.jpeg?v=1.1"
     }
 ]
