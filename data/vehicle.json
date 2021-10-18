@@ -1,0 +1,150 @@
+{
+    "title": "Street vehicles",
+    "description": "Learm about street vehicles",
+    "data": [
+        {
+            "name":"Police Car",
+            "spelling":"pəˈlēs kär",
+            "image":"police-car.jpeg",
+            "audio":"police-car.mp3"
+        },
+        {
+            "name":"Fire truck",
+            "spelling":"ˈfī(ə)r trək",
+            "image":"fire-truck.jepg",
+            "audio":"fire-truck.mp3"
+        },
+        {
+            "name":"Ambulance",
+            "spelling":"ˈambyələns",
+            "image":"ambulance.jpeg",
+            "audio":"ambulance.mp3"
+        },
+        {
+            "name":"Garbage truck",
+            "spelling":"ˈɡɑːr.bɪdʒ trək",
+            "image":"garbage-truck.jpeg",
+            "audio":"garbage-truck.mp3"
+        },
+        {
+            "name":"Tow truck",
+            "spelling":"ˈtō ˌtrək",
+            "image":"tow-truck.jpeg",
+            "audio":"tow-truck.mp3"
+        },
+        {
+            "name":"Taxi",
+            "spelling":"ˈtaksē",
+            "image":"taxi.jpeg",
+            "audio":"taxi.mp3"
+        },
+        {
+            "name":"Racing car",
+            "spelling":"ˈrāsiNG kär",
+            "image":"racing-car.jpeg",
+            "audio":"racing-car.mp3"
+        },
+        {
+            "name":"Car",
+            "spelling":"kär",
+            "image":"car.jpeg",
+            "audio":"car.mp3"
+        },
+        {
+            "name":"School Bus",
+            "spelling":"sko͞ol bəs",
+            "image":"school-bus.jpeg",
+            "audio":"school-bus.mp3"
+        },
+        {
+            "name":"Loading truck",
+            "spelling":"ˈlōdiNG trək",
+            "image":"loading-truck.jpeg",
+            "audio":"loading-truck.mp3"
+        },
+        {
+            "name":"Soil truck",
+            "spelling":"soil trək",
+            "image":"soil-truck.jpeg",
+            "audio":"soil-truck.mp3"
+        },
+        {
+            "name":"Motorbike",
+            "spelling":"ˈmōdərˌbīk",
+            "image":"motorbike.jpeg",
+            "audio":"motorbike.mp3"
+        },
+        {
+            "name":"Bicycle",
+            "spelling":"ˈbīsək(ə)l",
+            "image":"bicycle.jpeg",
+            "audio":"bicycle.mp3"
+        },
+        {
+            "name":"Bus",
+            "spelling":"bəs",
+            "image":"bus.jpeg",
+            "audio":"bus.mp3"
+        },
+        {
+            "name":"Plane",
+            "spelling":"plān",
+            "image":"plane.jpeg",
+            "audio":"plane.mp3"
+        },
+        {
+            "name":"Boat",
+            "spelling":"bōt",
+            "image":"boat.jpeg",
+            "audio":"boat.mp3"
+        },
+        {
+            "name":"Ship",
+            "spelling":"SHip",
+            "image":"ship.jpeg",
+            "audio":"ship.mp3"
+        },
+        {
+            "name":"Helicopter",
+            "spelling":"ˈhɛ.lə.ˌkɑːp.tɜ",
+            "image":"helicopter.jpeg",
+            "audio":"helicopter.mp3"
+        },
+        {
+            "name":"Train",
+            "spelling":"trān",
+            "image":"train.jpeg",
+            "audio":"train.mp3"
+        },
+        {
+            "name":"Tank",
+            "spelling":"taNGk",
+            "image":"tank.jpeg",
+            "audio":"tank.mp3"
+        },
+        {
+            "name":"Monster car",
+            "spelling":"ˈmänstər kär",
+            "image":"monster-car.jpeg",
+            "audio":"monster-car.mp3"
+        },
+        {
+            "name":"Excavator",
+            "spelling":"ˈekskəˌvādər",
+            "image":"excavator.jpeg",
+            "audio":"excavator.mp3"
+        },
+        {
+            "name":"Bulldozer",
+            "spelling":"ˈbo͝olˌdōzər",
+            "image":"bulldozer.jpeg",
+            "audio":"bulldozer.mp3"
+        },
+        {
+            "name":"Tank truck",
+            "spelling":"aNGk trək",
+            "image":"tank-truck.jpeg",
+            "audio":"tank-truck.mp3"
+        }
+    ]
+}

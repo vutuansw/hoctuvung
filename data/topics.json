@@ -23,5 +23,15 @@
         "title":"Colors",
         "name":"color",
         "image":"color.jpeg"
+    },
+    {
+        "title":"Colors",
+        "name":"color",
+        "image":"color.jpeg"
+    },
+    {
+        "title":"Street Vehicles",
+        "name":"vehicle",
+        "image":"vehicle.jpeg"
     }
 ]
