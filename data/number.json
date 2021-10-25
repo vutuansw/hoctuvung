@@ -5,121 +5,121 @@
         {
             "name":"One",
             "spelling":"wən",
-            "image":"one.png",
+            "image":"one.jpeg",
             "audio":"one.mp3"
         },
         {
             "name":"Two",
             "spelling":"to͞o",
-            "image":"two.png",
+            "image":"two.jpeg",
             "audio":"two.mp3"
         },
         {
             "name":"Three",
             "spelling":"THrē",
-            "image":"three.png",
+            "image":"three.jpeg",
             "audio":"three.mp3"
         },
         {
             "name":"Four",
             "spelling":"fôr",
-            "image":"four.png",
+            "image":"four.jpeg",
             "audio":"four.mp3"
         },
         {
             "name":"Five",
             "spelling":"fīv",
-            "image":"five.png",
+            "image":"five.jpeg",
             "audio":"five.mp3"
         },
         {
             "name":"Six",
             "spelling":"siks",
-            "image":"six.png",
+            "image":"six.jpeg",
             "audio":"six.mp3"
         },
         {
             "name":"Seven",
             "spelling":"ˈsevən",
-            "image":"seven.png",
+            "image":"seven.jpeg",
             "audio":"seven.mp3"
         },
         {
             "name":"Eight",
             "spelling":"āt",
-            "image":"eight.png",
+            "image":"eight.jpeg",
             "audio":"eight.mp3"
         },
         {
             "name":"Nine",
             "spelling":"nīn",
-            "image":"nine.png",
+            "image":"nine.jpeg",
             "audio":"nine.mp3"
         },
         {
             "name":"Ten",
             "spelling":"ten",
-            "image":"ten.png",
+            "image":"ten.jpeg",
             "audio":"ten.mp3"
         },
         {
             "name":"Eleven",
             "spelling":"əˈlevən",
-            "image":"eleven.png",
+            "image":"eleven.jpeg",
             "audio":"eleven.mp3"
         },
         {
             "name":"Twelve",
             "spelling":"twelv",
-            "image":"twelve.png",
+            "image":"twelve.jpeg",
             "audio":"twelve.mp3"
         },
         {
             "name":"Thirteen",
             "spelling":"ˌTHərˈtēn",
-            "image":"thirteen.png",
+            "image":"thirteen.jpeg",
             "audio":"thirteen.mp3"
         },
         {
             "name":"Fourteen",
             "spelling":"ˌfôrˈtēn",
-            "image":"fourteen.png",
+            "image":"fourteen.jpeg",
             "audio":"fourteen.mp3"
         },
         {
             "name":"Fifteen",
             "spelling":"fifˈtēn",
-            "image":"fifteen.png",
+            "image":"fifteen.jpeg",
             "audio":"fifteen.mp3"
         },
         {
             "name":"Sixteen",
             "spelling":"sikˈstēn",
-            "image":"sixteen.png",
+            "image":"sixteen.jpeg",
             "audio":"sixteen.mp3"
         },
         {
             "name":"Seventeen",
             "spelling":"ˌsevənˈtēn",
-            "image":"seventeen.png",
+            "image":"seventeen.jpeg",
             "audio":"seventeen.mp3"
         },
         {
             "name":"Eighteen",
             "spelling":"āˈtēn",
-            "image":"eighteen.png",
+            "image":"eighteen.jpeg",
             "audio":"eighteen.mp3"
         },
         {
             "name":"Nineteen",
             "spelling":"ˌnīnˈtēn",
-            "image":"nineteen.png",
+            "image":"nineteen.jpeg",
             "audio":"nineteen.mp3"
         },
         {
             "name":"Twenty",
             "spelling":"ˈtwen(t)ē",
-            "image":"twenty.png",
+            "image":"twenty.jpeg",
             "audio":"twenty.mp3"
         }
     ]
