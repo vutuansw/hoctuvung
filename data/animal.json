@@ -63,6 +63,12 @@
             "audio":"bird.mp3"
         },
         {
+            "name":"Butterfly",
+            "spelling":"ˈbədərˌflī",
+            "image":"butterfly.jpg",
+            "audio":"butterfly.mp3"
+        },
+        {
             "name":"Ant",
             "spelling":"ant",
             "image":"ant.jpg",
@@ -105,40 +111,16 @@
             "audio":"bear.mp3"
         },
         {
-            "name":"Alligator",
-            "spelling":"aləˌɡādər",
-            "image":"alligator.jpg",
-            "audio":"alligator.mp3"
-        },
-        {
-            "name":"Fish",
-            "spelling":"fiHS",
-            "image":"fish.jpg",
-            "audio":"fish.mp3"
-        },
-        {
-            "name":"Penguin",
-            "spelling":"ˈpeNGɡwin",
-            "image":"penguin.jpg",
-            "audio":"penguin.mp3"
-        },
-        {
-            "name":"Shark",
-            "spelling":"SHärk",
-            "image":"shark.jpg",
-            "audio":"shark.mp3"
-        },
-        {
-            "name":"Shrimp",
-            "spelling":"SHrimp",
-            "image":"shrimp.jpg",
-            "audio":"shrimp.mp3"
-        },
-        {
             "name":"Fly",
             "spelling":"flī",
             "image":"fly.jpg",
             "audio":"fly.mp3"
+        },
+        {
+            "name":"Bat",
+            "spelling":"bat",
+            "image":"bat.jpg",
+            "audio":"bat.mp3"
         },
         {
             "name":"Frog",
@@ -193,6 +175,36 @@
             "spelling":"ˈlizərd",
             "image":"lizard.jpg",
             "audio":"lizard.mp3"
+        },
+        {
+            "name":"Owl",
+            "spelling":"oul",
+            "image":"owl.jpg",
+            "audio":"owl.mp3"
+        },
+        {
+            "name":"Giraffe",
+            "spelling":"jəˈraf",
+            "image":"giraffe.jpg",
+            "audio":"giraffe.mp3"
+        },
+        {
+            "name":"Squirrel",
+            "spelling":"ˈskwər(ə)l",
+            "image":"squirrel.jpg",
+            "audio":"squirrel.mp3"
+        },
+        {
+            "name":"Camel",
+            "spelling":"ˈkaməl",
+            "image":"camel.jpg",
+            "audio":"camel.mp3"
+        },
+        {
+            "name":"Polar bear",
+            "spelling":"ˈpōlər be(ə)r",
+            "image":"polar-bear.jpg",
+            "audio":"polar-bear.mp3"
         }
     ]
 }

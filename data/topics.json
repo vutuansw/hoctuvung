@@ -5,6 +5,11 @@
         "image":"animal.jpeg?v=1.1"
     },
     {
+        "title":"Sea Animals",
+        "name":"sea-animal",
+        "image":"sea-animal.jpeg?v=1.0"
+    },
+    {
         "title":"Characters",
         "name":"character",
         "image":"character.jpeg?v=1.1"
