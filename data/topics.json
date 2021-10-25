@@ -33,5 +33,10 @@
         "title":"Colors",
         "name":"color",
         "image":"color.jpeg?v=1.1"
+    },
+    {
+        "title":"Numbers",
+        "name":"number",
+        "image":"number.jpeg?v=1.0"
     }
 ]
